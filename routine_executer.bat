@@ -1,0 +1,1 @@
+"C:\Users\riqui\Anaconda3\python.exe" "C:\Users\riqui\Desktop\Python projects\Web scrapper\twitter_bot_script.py"
